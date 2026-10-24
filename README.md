@@ -79,7 +79,7 @@ PDF rapor ve web paneli üreten Python otomasyonu. `Python` · `Flask`
 **[Fu&Me Çatı](https://github.com/Teaky44/fumecati)** · [fumecati.com](https://fumecati.com):
 yerel SEO odaklı firma sitesi. İlçe bazlı sayfalar ve 16 blog yazısı içeriyor. `HTML` · `CSS` · `JS`
 
-**[Yemeksepeti Telegram Bot](https://github.com/Teaky44/yemeksepetitelegrambot)**: Kodu doğrulayıp
+**Yemeksepeti Telegram Bot** 🔒: Kodu doğrulayıp
 tek kullanımlık grup davet linki üreten bot. `Python` · `python-telegram-bot`
 
 ## 🛠️ Teknolojiler
